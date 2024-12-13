@@ -1,5 +1,3 @@
-# muneeeeb
-
 
 
 ***
@@ -41,23 +39,25 @@ When I’m not coding, you can find me playing a strategic game of chess or enjo
 
 
 
-<div align="center", justify-content="center">
-  <a href="[www.linkedin.com/in/muneeb-zehel/](https://www.linkedin.com/in/muneeb-zehel)" target="_blank">
-    <img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a target="_blank" href="mailto:muneebshafique298@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
-  </a>
+<div align="center" justify-content="center">
+   <a href="https://www.linkedin.com/in/muneeb-zehel" target="_blank">
+     <img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 </div>
-
-<div align="center">
-    <a href="https://leetcode.com/u/Munibz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white" />
-     </a>
-    <a href="https://github.com/MuhammadMuneebShafiq" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-0d1117?style=flat&logo=Github&logoColor=white" />
+<div align="center" justify-content="center">
+   <a target="_blank" href="mailto:muneebshafique298@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
+   </a>
 </div>
-
+<div align="center" justify-content="center">
+     <a href="https://leetcode.com/u/Munibz/" target="_blank">
+     <img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white" />
+      </a>
+</div>
+<div align="center" justify-content="center">
+     <a href="https://github.com/MuhammadMuneebShafiq" target="_blank">
+     <img src="https://img.shields.io/badge/-Github-0d1117?style=flat&logo=Github&logoColor=white" />
+</div>
 
 ***
 

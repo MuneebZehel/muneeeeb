@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=ffffff&center=true&vCenter=true&width=1000&lines=Muneeb+Is+Here;Welcome+To+My+Github+Account!" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=ffffff&center=true&vCenter=true&width=1000&lines=Muneeb+Is+Here;Welcome+To+My+Github+Account" />
     </h1>
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 👋 **Welcome to my GitHub!**
 
-Hi, I’m Muhammad Muneeb Shafiq, a budding Data Scientist driven by curiosity and a passion for turning raw data into meaningful insights. I love exploring data and uncovering hidden patterns, and I'm always eager to learn and grow in the field of data science.
+Hi, I’m Muhammad Muneeb Shafiq, a budding Data Scientist driven by curiosity and a passion for turning raw data into meaningful insights. I love exploring data and uncovering hidden patterns, and I’m always excited to take on new challenges.
 
 ***
 
@@ -19,14 +19,17 @@ Hi, I’m Muhammad Muneeb Shafiq, a budding Data Scientist driven by curiosity a
   - Built a model to estimate CO2 emissions from cars using real-world datasets.
   - Designed a credit fraud detection system using advanced ML techniques.
 - **🖥️ Desktop Application:** Developed a Daily Planner with Python, tkinter, and SQL for seamless task management.
+- **📈 Data Visualization:** Created a credit card weekly report on MS Power BI.
 
 🏆 **Achievements:**
 
 - Solved over 300+ problems on LeetCode and 150+ problems on Codeforces, honing my problem-solving and algorithmic skills.
+- Became a campus ambassador at Artificial Intelligence Community of Pakistan.
+- Became a campus ambassador at Devsinc.
 
 🌟 **Let’s Collaborate!**
 
-I’m open to collaborations on Machine Learning projects and always eager to learn new technologies and approaches. Feel free to reach out if you have an exciting project or just want to chat about data science!
+I’m open to collaborations on Machine Learning projects and always eager to learn new technologies and approaches. Feel free to reach out if you have an exciting project or just want to chat about data science.
 
 🎯 **Fun Fact**
 
